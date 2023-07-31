@@ -1,7 +1,8 @@
 import os
 from emoji import emojize
 
-TOKEN = '6622677042:AAFrK6Jq_ybW4ejOoymZLD9-vAOj72gm9kg'
+
+TOKEN = '6622677042:AAHrFrwMPjsok4UzK86ByMgN3B8mAnpLqZ0'
 NAME_DB = 'game.sqlite'
 VERSION = '0.0.1'
 AUTHOR = 'Aleksey Khlybov'
