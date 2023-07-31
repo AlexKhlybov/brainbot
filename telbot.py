@@ -11,7 +11,7 @@ class TelBot:
     def __init__(self):
         self.token = config.TOKEN
         self.bot = TeleBot(self.token)
-        bot.set_webhook()
+        self.bot.set_webhook()
         self.handler = HandlerMain(self.bot)
 
     def start(self):
